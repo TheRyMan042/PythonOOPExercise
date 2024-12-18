@@ -1,0 +1,15 @@
+# Pets
+cat
+dog
+ferret
+
+# Food
+biscuitts
+gravy
+banana
+
+# Actions
+sleep
+climb
+run
+dance
